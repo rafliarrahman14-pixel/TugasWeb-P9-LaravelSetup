@@ -54,3 +54,25 @@ php artisan serve
 ```
 
 Buka `http://127.0.0.1:8000` pada browser.
+
+## Dokumentasi Screenshot
+
+Berikut dokumentasi hasil pengerjaan Tugas Rutin 9 - Setup Laravel.
+
+### 1. Halaman Welcome
+![Halaman Welcome](screenshots/01-welcome-page.png)
+
+### 2. Halaman About
+![Halaman About](screenshots/02-about-page.png)
+
+### 3. Halaman Contact
+![Halaman Contact](screenshots/03-contact-page.png)
+
+### 4. Status Migration
+![Status Migration](screenshots/04-migration-status.png)
+
+### 5. Struktur Database
+![Struktur Database](screenshots/05-database-structure.png)
+
+### 6. Data Dinamis Produk
+![Data Dinamis Produk](screenshots/06-dynamic-products.png)
